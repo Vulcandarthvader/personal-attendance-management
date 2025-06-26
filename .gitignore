@@ -1,0 +1,11 @@
+# Ignore node modules
+node_modules/
+
+# Ignore environment variable files
+.env
+
+# Ignore Vite/React build folder
+dist/
+
+# Ignore editor-specific settings
+.vscode/
